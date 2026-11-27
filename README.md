@@ -1,10 +1,10 @@
 # Hi, I'm Mukarrim Adam
 
-**B2B Mobile Engineering Expert | Team & Technical Leadership · AI Governance · Mentoring & Scaling Teams and Solutions** (London, UK · Co-Host, *We Asked Pros*).
+**Mobile Engineering Expert | Team & Technical Leadership · AI Governance · Mentoring & Scaling Teams and Solutions** (London, UK · Co-Host, *We Asked Pros*).
 
-I partner with B2B engineering organisations to scale mobile solutions and engineering teams sustainably, turning complex multi-app estates and ad-hoc AI experiments into predictable systems through technical leadership, team leadership, practical AI governance, and mentoring.
+I partner with engineering organisations to scale mobile solutions and technical teams sustainably, turning complex multi-app estates and fast-moving AI adoption into predictable systems through technical leadership, team leadership, practical AI governance, and mentoring.
 
-## B2B Capabilities & Focus Areas
+## Capabilities & Focus Areas
 - **Mobile Engineering & Scaling Solutions:** Over a decade architecting and scaling multi-app production estates spanning UK logistics (`CX Courier Exchange`, `Haulage Exchange`, `CX Fleet`, `Trustd Mobile`, `CX Carrier Lite`, `CX North America`, `FLS`, `Freight Vision`, `Speedy Freight`, `Trustd SDK`) alongside platforms in telecom, banking and fintech, retail, e-commerce, and international logistics (`My Telenor`, `Easypaisa`, `Boxit4me`, `KSK Logistics`, `Ciao.lk`, and others).
 - **Team & Technical Leadership & Mentoring:** Scaling engineering capability through hands-on team leadership, technical mentoring, and structured onboarding programmes; engineers and technical contractors coached have gone on to deliver across Google, Meta, Apple, Amazon, Lloyds, HSBC, Sainsbury's, Ocado, and many others.
 - **AI Governance & Bounded Agent Workflows (Active Build · Bespoke Per Organisation):** Establishing practical AI engineering governance, Spec-Driven Delivery guardrails, and tailored multi-agent production workflows so engineering speed never outpaces architecture and release discipline; open for interactive client working sessions.
