@@ -1,15 +1,15 @@
 # Hi, I'm Mukarrim Adam
 
-**Mobile Systems Architect & Engineering Leader | AI Governance, Mentoring & Scale · Co-Host, We Asked Pros** (London, UK).
+**B2B Mobile Engineering Expert | Team & Technical Leadership · AI Governance · Mentoring & Scaling Teams and Solutions** (London, UK · Co-Host, *We Asked Pros*).
 
-I help engineering organisations turn fragmented mobile delivery and ad-hoc AI experiments into calm, predictable engineering systems through multi-platform architecture, practical AI governance, and mentoring-led leadership.
+I partner with B2B engineering organisations to scale mobile solutions and engineering teams sustainably, turning complex multi-app estates and ad-hoc AI experiments into predictable systems through technical leadership, team leadership, practical AI governance, and mentoring.
 
-## B2B Transformation & Focus Areas
-- **Organisational Sessions, Events & Technical Talks:** Running interactive company sessions, organisational events, and technical talks on AI engineering productivity, bounded agent workflows, and human-centred engineering leadership.
-- **Mobile Engineering & Department Advisory:** Over a decade governing multiple production apps and platforms spanning UK logistics ecosystems (`CX Courier Exchange`, `Haulage Exchange`, `CX Fleet`, `Trustd Mobile`, `CX Carrier Lite`, `CX North America`, `FLS`, `Freight Vision`, `Speedy Freight`, `Trustd SDK`) alongside platforms spanning telecom, banking and fintech, retail, e-commerce, and international logistics (`My Telenor`, `Easypaisa`, `Boxit4me`, `KSK Logistics`, `Ciao.lk`, and others).
-- **Mentoring & Engineering Leadership:** Designing onboarding and technical coaching programmes; engineers and technical contractors coached have gone on to deliver across big tech, banking, retail, and e-commerce including Google, Meta, Apple, Amazon, Lloyds, HSBC, Sainsbury's, Ocado, and many others.
-- **AI Agent Factories (Active Build · Bespoke Per Organisation):** Currently building structured multi-agent production workflows and engineering governance blueprints tailored to each company; available to join engineering teams for interactive working sessions exploring Agent Factory concepts together.
-- **Media & Cross-Industry Insights:** Co-hosting **We Asked Pros** (20+ episodes) with a diverse guest panel including business owners, CEOs, technical and people leaders, doctors, psychologists, nutritionists, lawyers, designers, and coaches.
+## B2B Capabilities & Focus Areas
+- **Mobile Engineering & Scaling Solutions:** Over a decade architecting and scaling multi-app production estates spanning UK logistics (`CX Courier Exchange`, `Haulage Exchange`, `CX Fleet`, `Trustd Mobile`, `CX Carrier Lite`, `CX North America`, `FLS`, `Freight Vision`, `Speedy Freight`, `Trustd SDK`) alongside platforms in telecom, banking and fintech, retail, e-commerce, and international logistics (`My Telenor`, `Easypaisa`, `Boxit4me`, `KSK Logistics`, `Ciao.lk`, and others).
+- **Team & Technical Leadership & Mentoring:** Scaling engineering capability through hands-on team leadership, technical mentoring, and structured onboarding programmes; engineers and technical contractors coached have gone on to deliver across Google, Meta, Apple, Amazon, Lloyds, HSBC, Sainsbury's, Ocado, and many others.
+- **AI Governance & Bounded Agent Workflows (Active Build · Bespoke Per Organisation):** Establishing practical AI engineering governance, Spec-Driven Delivery guardrails, and tailored multi-agent production workflows so engineering speed never outpaces architecture and release discipline; open for interactive client working sessions.
+- **Organisational Sessions, Events & Technical Talks:** Running company sessions, leadership events, and technical talks on AI engineering productivity, bounded agent workflows, and scaling technical teams.
+- **Media & Cross-Industry Leadership:** Co-hosting **We Asked Pros** (20+ episodes) with business owners, CEOs, technical and people leaders, doctors, psychologists, nutritionists, lawyers, designers, and coaches.
 
 ## Writing & Playbooks
 - **9-Point Mobile Release Readiness Gate:** [mukarrim.com/writing/mobile-release-readiness-gates](https://mukarrim.com/writing/mobile-release-readiness-gates/)
